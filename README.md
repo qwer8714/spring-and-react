@@ -13,3 +13,5 @@
   - https://github.com/kantega/react-and-spring
   
   - https://github.com/eirslett/frontend-maven-plugin
+  
+  - https://sundries-in-myidea.tistory.com/71
